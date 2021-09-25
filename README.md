@@ -1,4 +1,4 @@
-# TubeFlix
+<h1 align="center"><img width="160" src="https://github.com/sajeevp/tubeflix/raw/master/src/logo.png" alt="TubeFlix" /></h1>
 
 A Mimic of Netflix app from youtube playlist videos, built with React, Redux, JavaScript, and tailwindcss.
 
